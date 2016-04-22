@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>test-web-app</name>
-  <description>a test web app</description>
+  <description>a test web app to test github repository</description>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>

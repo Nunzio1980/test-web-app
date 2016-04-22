@@ -5,8 +5,8 @@
   <artifactId>test-web-app</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>test-web-app Maven Webapp</name>
-  <url>http://maven.apache.org</url>
+  <name>test-web-app</name>
+  <description>a test web app</description>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
